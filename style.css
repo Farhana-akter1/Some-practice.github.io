@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.hero{
+    background-image: linear-gradient(#ff9999,#ff0000);
+}
+.topbar{
+    padding: 20px;
+}
+.topbar img{
+    width: 140px;
+}
+.top-btn{
+    float: right;
+    padding: 30px 0px !important;
+}
+.top-btn a{
+    padding: 10px 20px;
+    margin: 0 5px;
+    text-decoration: none;
+    border-radius: 50px;
+    border: 2px solid #000;
+    color: #fff;
+    background: #000;
+}
+.top-btn .login-btn{
+    background: transparent !important;
+}
+.hero h1{
+    font-size: 70px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    margin-top: 10%;
+}
+.hero .container{
+    margin-top: 13%
+}
+.start-btn{
+    width: 130px;
+    height: 40px;
+    border: 2px solid #000;
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.home-img img{
+    width: 85%;
+    min-width: 350px;
+    margin-top: 10%
+}
+.influencer{
+    padding: 30px 0px;
+    background: #e6e6e6;
+}
+.influencer .container{
+    margin-bottom: -200px;
+}
+.influencer h2{
+    margin:60px 0;
+    color: #555;
+}
+.person-img{
+    height: 300px;
+}
+.person-img img{
+    width: 100%;
+    height: 100%;
+}
+.person-details{
+    background: #fff;
+    padding: 15px 0px;
+}
+.profile{
+    padding: 30px 0px;
+    background-image: linear-gradient(#ff9999,#ff0000);
+}
+.profile-card{
+    box-shadow: 0 2px 40px 0 rgba(17,39,125, 0.18);
+    background: #fff;
+    border-radius: 15px;
+    margin-top: 370px;
+    margin-bottom: -360px;
+}
+.profile-details{
+    padding: 40px;
+}
+.profile h2{
+    color: #ff6666;
+    margin-top: 25px;
+}
+.profile h2,p{
+    padding: 15px;
+}
+.followers span{
+    display: inline-block;
+    padding: 20px;
+    color: #ff6666;
+}
+.follow-btn{
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    background: #ff6666;
+    
+}
+.profile-img{
+    height: 400px;
+}
+.profile-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}
+.footer{
+    padding: 50px 20px;
+    background-image: linear-gradient(#ff9999,#ff0000);
+    margin: 500px 0;
+}
+.store-icon img{
+    width: 150px;
+    margin: 0 10px;
+}
+.footer-menu a{
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 20px;
+    padding: 0 30px;
+    display: inline-block;
+}
+.footer p{
+    color: #fff;
+}
